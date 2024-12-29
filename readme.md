@@ -30,15 +30,16 @@ Esse conjunto de dados é composto por clientes da empresa com dados sobre:
 5. Os clientes tem níveis de educação maiores ou menores?
 6. Quantos clientes existem em cada estado civil?
 7. Qual a distribuição das despesas por nível de escolaridade e estado civil?
+8. Qual é a relação de estado civil com número de filhos? 
 
 #### Etapa 3 - Criando Hipóteses:
 
-1. Pessoas solteiras consomem menos do que pessoas casadas?
-2. Pessoas com um número maior de visitas tendem a consumir mais que pessoas com menor número?
-3. Pessoas que possuem filhos tendem a gastar mais com doces do que com frutas?
-4. As pessoas gastam mais ou menos na plataforma quando têm filhos?
-5. Pessoas com idade acima dos 40 tendem a reclamar mais?
-6. Clientes mais antigos na plataforma tendem a ser mais fiéis e consomem mais?
-7. Pessoas com maior idade tendem a aceitar menos campanhas?
-8. Qual é a relação de estado civil com número de filhos? Será que as pessoas casadas têm um maior número de filhos?
-9. Pessoas que têm um maior salário gastam mais?
+1. Clientes solteiros consomem menos do que clientes casados.
+2. Clientes com um número maior de visitas tendem a consumir mais que clientes com menor número
+3. Clientes que possuem filhos tendem a gastar mais com doces do que com frutas.
+4. Clientes gastam mais na plataforma quando tem filhos.
+5. Clientes com idade acima dos 40 tendem a reclamar mais.
+6. Clientes mais antigos na plataforma tendem a ser mais fiéis e consomem mais.
+7. Clientes com maior idade tendem a aceitar menos campanhas.
+8. Clientes casados têm um maior número de filhos.
+9. Clientes que têm um maior salário gastam mais.
