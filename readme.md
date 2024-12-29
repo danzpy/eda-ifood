@@ -1,6 +1,6 @@
 ## Análise exploratória de dados - Ifood
 
-[![ifood-logo](https://brandlogovector.com/tag/ifood-logo-png/)](https://www.ifood.com.br/)
+[![ifood-logo](ifood-logo.png)](https://www.ifood.com.br/)
 
 Este é um estudo proposto ao término da Aula 1 (Estatística descritiva) do curso Estatística do Básico ao Avançado (EBA).
 O desafio é analisar um conjunto de dados da empresa Ifood e responder algumas hipóteses.
